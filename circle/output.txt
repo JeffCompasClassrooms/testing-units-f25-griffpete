@@ -1,0 +1,9 @@
+======================================================================== test session starts ========================================================================
+platform darwin -- Python 3.11.2, pytest-8.1.1, pluggy-1.4.0
+rootdir: /Users/griffinpeterson/utahtech/SE-3150/testingUnits/testing-units-f25-griffpete/circle
+plugins: anyio-4.8.0
+collected 7 items
+
+test_circle.py .......                                                                                                                                        [100%]
+
+========================================================================= 7 passed in 0.01s =========================================================================
